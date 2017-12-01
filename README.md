@@ -1,5 +1,8 @@
 # cs344-solutions
-my solutions to the Udacity Intro to Parallel Programming Course
+My solutions to the Udacity Intro to Parallel Programming Course. 
+
+The files that explain the assignment and include the functions that were written by me are labeled
+student_func.cu.
 
 This Course is free through Udaciy and can be found here:
 https://www.udacity.com/course/intro-to-parallel-programming--cs344
